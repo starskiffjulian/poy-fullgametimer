@@ -1,0 +1,11 @@
+.vs
+Config.props
+
+# Build stuff
+bin
+**/obj
+build/*.zip
+res/uilib.bundle
+docs/.config
+docs/_site
+docs/api
