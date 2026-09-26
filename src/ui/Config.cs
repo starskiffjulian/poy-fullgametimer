@@ -3,7 +3,7 @@ using System;
 using BepInEx.Configuration;
 using UnityEngine;
 
-namespace InGameTimer {
+namespace FullGameTimer {
     public class Config {
         public ConfigEntry<string> _toggleKeybind;
         public ConfigEntry<bool> showUI;
