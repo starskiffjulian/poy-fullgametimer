@@ -2,8 +2,8 @@
   <PropertyGroup>
     <TargetFramework>net472</TargetFramework>
     <Platform>Any CPU</Platform>
-    <AssemblyName>InGameTimer</AssemblyName>
-    <Description>Adds an ingame timer to be used across the game.</Description>
+    <AssemblyName>FullGameTimer</AssemblyName>
+    <Description>Adds a fully separate ingame timer to be used across the game.</Description>
     <Version>0.1.0</Version>
     <RootNamespace>$(AssemblyName)</RootNamespace>
     <Configurations>Debug;Release</Configurations>
