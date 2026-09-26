@@ -4,7 +4,7 @@ set -xe
 
 cd ../
 
-MOD_NAME="InGameTimer"
+MOD_NAME="FullGameTimer"
 VERSION="$(git describe --abbrev=0 | tr -d  "v")"
 
 BP_NAME="$MOD_NAME-$VERSION-BepInEx"
