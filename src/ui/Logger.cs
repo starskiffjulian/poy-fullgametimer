@@ -1,6 +1,6 @@
 using System;
 
-namespace InGameTimer {
+namespace FullGameTimer {
     /**
      * <summary>
      * A class for helping with creating
